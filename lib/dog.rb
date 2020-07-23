@@ -13,3 +13,4 @@ class Dog
 end
 
 snoopy = Dog.new
+snoopy.breed = "Mutt"
