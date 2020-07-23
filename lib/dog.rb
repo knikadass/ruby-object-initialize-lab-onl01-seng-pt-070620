@@ -1,6 +1,6 @@
 class Dog
   def initialize(name)
-    Beyonce = Dog.new
+    fido = Dog.new
   end
  
   def breed=(breed)
