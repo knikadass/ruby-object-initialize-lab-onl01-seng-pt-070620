@@ -6,3 +6,4 @@ class Dog
      puts breed="Mutt"
    
   end
+end
