@@ -12,4 +12,4 @@ class Dog
   end
 end
 
-lassie.Dog
+snoopy = Dog.new
